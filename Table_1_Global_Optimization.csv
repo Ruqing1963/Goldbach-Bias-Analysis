@@ -1,0 +1,4 @@
+Frequency Hypothesis,Test Freq (Hz),Global Accuracy Gain,Verdict
+High Frequency (Resonance),18.14,2.72%,Artifact (Rejected)
+Riemann Zero Base,14.13,3.30%,Weak Signal
+Systematic Bias Correction,0.1,25.66%,Confirmed Trend
